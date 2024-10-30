@@ -163,7 +163,7 @@ DNS = 223.5.5.5, 223.6.6.6
 [Peer]
 PublicKey = ${SERVER_PUBLIC_KEY}
 Endpoint = ${SERVER_ENDPOINT}:51820
-AllowedIPs = 0.0.0.0/0
+AllowedIPs = 10.0.0.0/24
 PersistentKeepalive = 25
 EOF
 
