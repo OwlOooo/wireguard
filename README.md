@@ -22,3 +22,4 @@ chmod +x /wg/wgd.sh
 ln -sf /wg/wgd.sh /usr/local/bin/wgd
 hash -r
 ```
+## 服务器安全组开启UDP端口：51820
